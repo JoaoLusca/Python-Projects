@@ -10,7 +10,7 @@
 import streamlit as st
 from openai import OpenAI
 
-modelo = OpenAI(api_key="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")
+modelo = OpenAI(api_key="seila")
 
 st.write("### ChatBot com IA") # markdown
 
